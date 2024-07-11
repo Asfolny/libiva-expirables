@@ -1,2 +1,2 @@
 # libiva-expirables
-Library and inventory management, expirables extension
+GitHub mirror for Library and inventory management, expirables extension
